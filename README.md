@@ -1,4 +1,4 @@
-### `About Me -`
+### About Me -
 
 ```
 Hello there, I am Nikhil Mahajan, an enthusiastic tech explorer.
@@ -10,7 +10,7 @@ I am also trying my hands over DSA and CP.
 Contact : nik.xyz.in@gmail.com
 ```
 
-### `My Tech Stack includes the following -`
+### My Tech Stack includes the following -
 
 ```
 > Javascript and Typescript
@@ -26,7 +26,7 @@ Contact : nik.xyz.in@gmail.com
 > C and C++
 ```
 
-### `GitHub Stats -`
+### GitHub Stats -
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nik-55&show_icons=true&theme=transparent)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nik-55&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
