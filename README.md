@@ -4,7 +4,7 @@
 Hello there, I am Nikhil Mahajan, an enthusiastic tech explorer.
 Currently, I am pursuing Chemical Engineering from IIT ROORKEE'25.  
 I have worked on various projects that help me to understand the workflow of development and  
-now, I am looking forward to explore hot topics like Blockchain and Machine Learning.   
+now, I am looking forward to learn hot topics like Blockchain and Machine Learning.   
 I am also trying my hands over DSA and CP.
 
 Contact : nik.xyz.in@gmail.com
