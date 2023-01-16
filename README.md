@@ -15,11 +15,9 @@ Contact : nik.xyz.in@gmail.com
 ```
 > Javascript and Typescript
 > Python
-> Django
+> Django and Node 
 > React 
-> MongoDb
-> Firebase
-> Node 
+> MongoDb and Firebase
 > Bootstrap and Css 
 > Git and Github
 > Docker
