@@ -1,13 +1,14 @@
 ### About Me -
 
 ```
-Hello there, I am Nikhil Mahajan, an enthusiastic tech explorer.
+Hello there, I am Nikhil Mahajan, an enthusiastic developer.
 Currently, I am pursuing Chemical Engineering from IIT ROORKEE'25.  
 I have worked on various projects that help me to understand the workflow of development and  
 now, I am looking forward to learn hot topics like Blockchain and Machine Learning.   
 I am also trying my hands over DSA and CP.
 
-Contact : nik.xyz.in@gmail.com
+Email : nik.xyz.in@gmail.com 
+LinkedIn : https://www.linkedin.com/in/nikhil-mahajan1/
 ```
 
 ### My Tech Stack includes the following -
