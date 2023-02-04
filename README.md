@@ -21,7 +21,6 @@ LinkedIn : https://www.linkedin.com/in/nikhil-mahajan1/
 > Bootstrap and Css 
 > Git and Github
 > Docker
-> C and C++
 ```
 
 ### GitHub Stats -
