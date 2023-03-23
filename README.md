@@ -1,27 +1,23 @@
-### About Me -
+### About Me
 
-```
-Hello there, I am Nikhil Mahajan, an enthusiastic developer.
-Currently, I am pursuing Chemical Engineering from IIT ROORKEE'25.  
-I have worked on various projects that help me to understand the workflow of development and  
+* Hello there, I am **Nikhil Mahajan**.
+* Developer at [mdgpspace](https://githib.com/mdgspace).
+* Currently, I am pursuing Chemical Engineering from [**IIT ROORKEE**](https://www.iitr.ac.in/) (year of graduation: 2025).  
+* I have worked on various projects that help me to understand the workflow of development and  
 now, I am looking forward to learn hot topics like Blockchain and Machine Learning.   
+* <a href="mailto:nik.xyz.in@gmail.com">Email</a> | [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
 
-Email : nik.xyz.in@gmail.com 
-LinkedIn : https://www.linkedin.com/in/nikhil-mahajan1/
-```
+### Skills
 
-### My Tech Stack includes the following -
-
-```
-> Javascript and Typescript
-> Python
-> Django and Node 
-> React 
-> MongoDb and Firebase
-> Bootstrap and Css 
-> Git and Github
-> Docker
-```
+* Javascript | Typescript
+* Python
+* Django | Node 
+* React 
+* MongoDb | Firebase
+* Bootstrap | Css 
+* Git
+* Docker
+* Selenium | WebdriverIO
 
 ### GitHub Stats -
 
