@@ -1,13 +1,14 @@
 # Nikhil Mahajan 
-## `Software Developer`
+## Software Developer
 
 * I am currently pursuing Chemical Engineering from [**IIT ROORKEE**](https://www.iitr.ac.in/) (year of graduation: 2025).  
-* Developer at [mdgpspace](https://githib.com/mdgspace).
+* Developer at [mdgpspace](https://github.com/mdgspace).
 * I have worked on various projects that help me to understand the workflow of development and  
 now, I am looking forward to learn hot topics like Blockchain and Machine Learning.   
-* <a href="mailto:nik.xyz.in@gmail.com">nik.xyz.in@gmail.com</a> | [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
+* Email: <a href="mailto:nik.xyz.in@gmail.com">nik.xyz.in@gmail.com</a> 
+* [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
 
-# Skills
+## Skills
 
 * Javascript | Typescript
 * Python
@@ -19,6 +20,6 @@ now, I am looking forward to learn hot topics like Blockchain and Machine Learni
 * Docker
 * Selenium | WebdriverIO
 
-# GitHub Stats -
+## GitHub Stats -
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nik-55&show_icons=true&theme=transparent)   
