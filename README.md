@@ -5,7 +5,7 @@
 * Currently, I am pursuing Chemical Engineering from [**IIT ROORKEE**](https://www.iitr.ac.in/) (year of graduation: 2025).  
 * I have worked on various projects that help me to understand the workflow of development and  
 now, I am looking forward to learn hot topics like Blockchain and Machine Learning.   
-* <a href="mailto:nik.xyz.in@gmail.com">Email</a> | [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
+* <a href="mailto:nik.xyz.in@gmail.com">nik.xyz.in@gmail.com</a> | [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
 
 ### Skills
 
