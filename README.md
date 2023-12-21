@@ -5,7 +5,7 @@
 * Developer at [mdgpspace](https://github.com/mdgspace).
 * Google Summer of Code 2023 @wikimedia_foundation - [Report](https://nik-55.github.io/GSoC-2023-Report/)
 * I have worked on various projects that help me to understand the workflow of development and  
-now, I am looking forward to learn hot topics like Blockchain and Machine Learning.   
+now, I am looking forward to learn hot topics like Machine Learning.   
 * Email: <a href="mailto:nik.xyz.in@gmail.com">nik.xyz.in@gmail.com</a> 
 * [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
 
@@ -20,7 +20,3 @@ now, I am looking forward to learn hot topics like Blockchain and Machine Learni
 * Git
 * Docker
 * Selenium | WebdriverIO
-
-## GitHub Stats -
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nik-55&show_icons=true&theme=transparent)   
