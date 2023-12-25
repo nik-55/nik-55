@@ -7,7 +7,7 @@
 * I have worked on various projects that help me to understand the workflow of development and  
 now, I am looking forward to learn hot topics like Machine Learning.   
 * Email: <a href="mailto:nik.xyz.in@gmail.com">nik.xyz.in@gmail.com</a> 
-* [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
+* [Website](https://imnikhil.pro) : [LinkedIn](https://www.linkedin.com/in/nikhil-mahajan1)
 
 ## Skills
 
