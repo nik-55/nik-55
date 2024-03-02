@@ -16,7 +16,7 @@
 * Python
 * Django | Node 
 * React 
-* MongoDb | Firebase
+* MongoDb | Postgresql
 * Bootstrap | Css 
 * Git
 * Docker
