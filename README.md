@@ -3,7 +3,7 @@
 
 * I am currently pursuing Chemical Engineering from [**IIT ROORKEE**](https://www.iitr.ac.in/) (year of graduation: 2025).  
 * Developer at [mdgpspace](https://github.com/mdgspace).
-* Recent Project - [Election Portal](https://election.iitr.ac.in) for IITR (Backend & Frontend) - Completed 🎊 Around 6K+ voters cast their vote on the site without any technical issues
+* Recent Project - [Election Portal](https://election.iitr.ac.in) for IITR
 * IKS certificate portal Backend
 * Astrikos - Working on PoC
 * Google Summer of Code 2023 @wikimedia_foundation - [Report](https://nik-55.github.io/GSoC-2023-Report/)   
