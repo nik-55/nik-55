@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik-55&" alt="nik-55" /></p>
 
-<p><img height="350" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/b85c6832-cc6e-4c7a-a39b-669a22dc9e6a.svg" alt="nik-55" /></p>
+<p><img height="250" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/b85c6832-cc6e-4c7a-a39b-669a22dc9e6a.svg" alt="nik-55" /></p>
 
-<p><img height="350" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/0dc975b8-34e4-4ae6-8b61-158bf1aad18c.svg" alt="nik-55" /></p>
+<p><img height="250" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/0dc975b8-34e4-4ae6-8b61-158bf1aad18c.svg" alt="nik-55" /></p>
