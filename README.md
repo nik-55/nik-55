@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats-eta-two-45.vercel.app/api/top-langs?username=nik-55&show_icons=true&locale=en&layout=compact" alt="nik-55" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nik-55&show_icons=true&locale=en" alt="nik-55" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eta-two-45.vercel.app/api?username=nik-55&show_icons=true&locale=en" alt="nik-55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik-55&" alt="nik-55" /></p>
