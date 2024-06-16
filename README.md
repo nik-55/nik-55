@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-55&label=Profile%20views&color=0e75b6&style=flat" alt="nik-55" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-55&label=Profile%20views&color=0e75b6&style=flat" alt="nik-55" /> &nbsp;<img src="https://wakatime.com/badge/user/be054c04-4936-4f73-bfc0-64085dafd58d.svg" alt="nik-55" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-55" alt="nik-55" /></a> </p>
 
@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik-55&" alt="nik-55" /></p>
 
-<p><img height="250" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/b85c6832-cc6e-4c7a-a39b-669a22dc9e6a.svg" alt="nik-55" /></p>
-
-<p><img height="250" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/0dc975b8-34e4-4ae6-8b61-158bf1aad18c.svg" alt="nik-55" /></p>
+<p><img height="300" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/b85c6832-cc6e-4c7a-a39b-669a22dc9e6a.svg" alt="nik-55" />&nbsp;<img height="300" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/0dc975b8-34e4-4ae6-8b61-158bf1aad18c.svg" alt="nik-55" /></p>
