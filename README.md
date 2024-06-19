@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-55&label=Profile%20views&color=0e75b6&style=flat" alt="nik-55" /> &nbsp;<img src="https://wakatime.com/badge/user/be054c04-4936-4f73-bfc0-64085dafd58d.svg" alt="nik-55" /></p>
+<p align="left"><img src="https://wakatime.com/badge/user/be054c04-4936-4f73-bfc0-64085dafd58d.svg" alt="nik-55" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-55" alt="nik-55" /></a> </p>
 
