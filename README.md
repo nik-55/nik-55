@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 
-<p align="left"><img src="https://wakatime.com/badge/user/be054c04-4936-4f73-bfc0-64085dafd58d.svg" alt="nik-55" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-55" alt="nik-55" /></a> </p>
 
-- 🌱 I’m currently learning **Terraform, AWS, Generative AI, Hacking**
+- 🌱 I’m currently learning **AWS, Generative AI, Hacking**
 
 - 👨‍💻 All of my projects are available at [https://nik-55.github.io](https://nik-55.github.io)
 
@@ -27,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eta-two-45.vercel.app/api?username=nik-55&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&custom_title=Github%20Stats" alt="nik-55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nik-55&" alt="nik-55" /></p>
-
-<p><img height="250" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/b85c6832-cc6e-4c7a-a39b-669a22dc9e6a.svg" alt="nik-55" />&nbsp;<img height="250" align="center" src="https://wakatime.com/share/@be054c04-4936-4f73-bfc0-64085dafd58d/0dc975b8-34e4-4ae6-8b61-158bf1aad18c.svg" alt="nik-55" /></p>
