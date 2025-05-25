@@ -10,11 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/m_nik55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_nik55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil-mahajan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-mahajan1" height="30" width="40" /></a>
+<a href="https://x.com/m_nik55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_nik55" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhilmahajan123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-mahajan1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22708403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22708403" height="30" width="40" /></a>
 <a href="https://medium.com/@nik.xyz.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nik.xyz.in" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nik_mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nik_mahajan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
